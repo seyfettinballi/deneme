@@ -17,3 +17,7 @@ body {
 .border-top-dark {
     border-top: 1px solid rgba(230, 230, 230, 1);
 }
+
+body{
+    font-size: large;
+}
