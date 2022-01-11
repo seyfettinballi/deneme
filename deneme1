@@ -1,3 +1,20 @@
-düzenleme yapalım
-![alex](https://www.deviantart.com/designfb1907/art/AlexDeSouza-634413334)
+# düzenleme başlık
+## alt başlık
+
+*bold*
+**italic**
+------------------------
+---
+
+
+
+
+![Alex](https://www.deviantart.com/designfb1907/art/AlexDeSouza-634413334)
+
+
+------------------
+
+'''
+print("helö")
+'''
 
